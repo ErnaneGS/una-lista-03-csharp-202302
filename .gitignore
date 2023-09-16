@@ -20,3 +20,52 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Arquivos temporários gerados pelo Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+
+# Arquivos de saída gerados pela compilação
+*.dll
+*.exe
+
+# Logs e arquivos de depuração
+*.log
+*.log.*
+*.log-*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração do NuGet
+packages/
+*.nupkg
+nuget.exe
+nuget/
+*.ide/
+
+# Arquivos de saída do Rider
+.idea/
+
+# Arquivos temporários do Rider
+.idea.rider/
+.idea.Unity/
+.idea.vscode/
+*.sln.iml
+
+# Diretórios de saída do Rider
+.idea/codeStyles/
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/caches/
+.idea/index/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Arquivos temporários do Visual Studio Code
+.vscode/
